@@ -22,4 +22,14 @@ Para rodar o servidor localmente, utilize o comando:
 - appsettings.json → Configurações da aplicação.
 
 ## Como Contribuir:
-- Faça um fo
+- Faça um fork do projeto.
+- Crie uma nova branch:  
+    git checkout -b minha-feature
+- Faça os commits:  
+    git commit -am "Adicionando nova funcionalidade"
+- Suba a branch:  
+    git push origin minha-feature
+- Crie um Pull Request.
+
+## Licença:
+Projeto sob a Licença MIT.
